@@ -1,0 +1,49 @@
+meta data contain the information about your web page ..
+like description of your page and keyword and other things 
+related to your page .. it can be use for search engine optimization.
+
+
+meta element live inside the head element ..
+<head>
+<meta> it is the empty element 
+
+ it telling search engines about your page, who created it
+
+meta has attribute 
+1. name -- it has value description , keywords and robots
+2. content -- it has information 
+3. description - value use for desciption of your webpage
+4. keywords - keywords use for the search engine
+5. robots - this value use for the your page is added or not to search engine
+6. author - this is used with http-equiv
+7. pragma - it is use for cache related things in browser
+8. expires - it use to expire the cache used in browser for particular
+page
+
+
+<meta name="description"
+ content="An Essay on Installation Art" />
+ <meta name="keywords"
+ content="installation, art, opinion" />
+ <meta name="robots"
+ content="nofollow" />
+ <meta http-equiv="author"
+ content="Jon Duckett" />
+ <meta http-equiv="pragma"
+ content="no-cache" />
+ <meta http-equiv="expires"
+ content="Fri, 04 Apr 2014 23:59:59 GMT" />
+
+
+robot - if value is nofollow  means page is added to 
+search engine and if the value is noindex page is not added 
+to the search engine
+
+so in meta data .
+these are in pair
+ name and content 
+ http-equiv and content
+
+http-equiv --- author , pragma  ,expires
+
+

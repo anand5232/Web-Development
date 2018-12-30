@@ -1,0 +1,12 @@
+<a href=""> it is used to put a link 
+<address> it is used to describe the contact detail of the author of 
+ page
+
+learn about hcards
+<del> this tag is use to delete the word in the web page
+<ins> this tag is use to insert the word in the web page
+<u> for underlined
+<s> it is use to describe something is no longer accurate like 
+     lower in price of anything
+
+<del> and <s> do same function but use in different way

@@ -1,0 +1,25 @@
+there are three rules to create image 
+1. save the images in the right format exam. - jpeg,jpg,pngor gif.
+2. save the images in right size - width and height combination..
+3. use the correct resolution .. exam. pixel per inch
+
+a good image is define by size, format, and resolution. 
+jpeg- use when you have different and lot of color.
+gif or png- when you have single or not more color .
+
+When a picture has an area that is filled
+with exactly the same color, it is known as
+flat color like  logos or illustration or diagram
+
+Images created for the web should be saved at
+a resolution of 72 ppi.
+
+images made in computer is made of tiny square called pixel 
+images print in magzine or in book made of tiny circles called dots.
+
+computer image or web image are generally made  in 72 pixel per inch
+book or magzine image are made in 300  dpi
+
+Bitmap Images---JPGs, GIFs, and PNGs belong to
+a type of image format known
+as bitmap.

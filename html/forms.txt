@@ -1,0 +1,25 @@
+HTML forms give you a set of elements to collect data from
+your users
+
+forms are use to collect the information 
+from the user ..
+
+ form to refer to different
+elements that allow you to collect information from visitors
+
+there are many type of form controls
+
+adding text
+1. text input - like email or username
+2. password input - password used
+3. text area - longer area of text such as comment or message
+
+making choices
+1. radio buttons
+2. checkbox 
+3. dropdown boxes
+
+submitting forms
+1. submit button
+2. image buttons
+3. file upload 

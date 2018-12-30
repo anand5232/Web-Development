@@ -1,0 +1,28 @@
+<form> it is use to make form 
+it has attribute like
+action - after submiting , value from the form will go 
+to the url ..
+method -- 
+get - use for short form
+post - use for long form , uploading a file 
+
+id -- use for the distinct the different element and 
+check the value of the element using the script
+
+we dont simply send the credit card number or password to server 
+we use ssl secure socket layer.to send the data
+from your browser to the server securely
+
+we have <input> tag to perform various form controls
+input has attribute
+1. name
+2. type
+3. size 
+4. maxlength
+
+<textarea>
+this tag is use for message or comment 
+it has attribute like 
+cols="" and rows""
+cols -- for how wide will be the text area
+rows-- for how many rows will be there ..

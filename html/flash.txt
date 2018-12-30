@@ -1,0 +1,32 @@
+flash is very popular tool for creating animation
+and video and audio player.
+flash is also use to make the flash movie for
+website.
+
+file created with the helo of the flash is 
+.fla and it has to be save in different format.
+.SWF
+
+to use the flash in your web page you
+need to use plugin
+
+learn - how to create the flash movie ..
+
+flash is included and use with the help of the 
+javascript ...
+
+javascript libraries are written to create animated effects
+
+
+video tag ... it is use to add the video in your browser
+
+it has attribute 
+src - path
+poster - image for video or thumbnail
+preload  it has three values
+        none, auto ,metadata,
+        none- should not load the video
+attribute -controls - controls for video
+attribute -autoplay -
+attribute -loop 
+

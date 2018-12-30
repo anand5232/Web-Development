@@ -1,0 +1,46 @@
+radio button -- it is use for selection..we can select only one 
+option here in radio button. 
+it has attribute 
+1. name ...
+2. value ...
+3. checked ...
+checked value checked
+
+checkbox .. it is similar to radio button but it has box and 
+we can select multiple selection in the checkbox.
+it has attribute 
+1. name ...
+2. value...
+3. checked .. value is selected
+
+Drop down list box or list box ..
+1. name
+2. option
+3. value
+4. selected... value is selected 
+
+drop down list box is made with the help of <select> tag and 
+<option> 
+
+
+radio button and drop down box are same but the radio button 
+used for small option if we have large number of option for example
+selecting a country from a group of country then we will use the 
+drop down box ..
+
+multiple select box
+in select tag we can attribute
+1. size 
+2. multiple and its value will be multiple
+
+to select multiple value you should use the control button of computer 
+and then select the value from the computer.
+
+
+file input box..
+has attribute 
+
+
+submit attribute 
+and value attribute will display the text into the submit box
+

@@ -1,0 +1,11 @@
+video can be add in web 
+with flash or html5 tag ....
+<video> tag is use in html5 
+and flash is added with the help of the javascipt
+
+audio can be add with the help of the 
+<audio> tag and with the help of the 
+use hotsted service..
+use flash 
+use html5
+

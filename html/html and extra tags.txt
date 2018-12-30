@@ -1,0 +1,72 @@
+we use comment to easily understanding the programing ..
+<!-- here we can write our comment -->
+
+doctype is use to indicate which type of the html version we are
+using or it help the browser to render the page correctly ..
+
+id attribute ... it is use for uniquly identify the html tag 
+or element in the whole code .. it is very useful 
+to use css and javascipt in your code with the help of the 
+id attribute.
+
+id attribute is the global attribute beacuse it can be used in 
+any html element ..
+
+class is same way use for the group of the element that are 
+same .. or you want to do same effect on the several html element 
+you can use the class attribute here ...
+
+<h1 class="imp"> hi i am important </h1>
+<h1 class="not imp"> hi i am not important >/h1>
+<p class="imp"> hi i am important </p>
+
+So we have 
+1. id attribute --- for single html tag
+2. class attribute --- for group of html tag.
+
+
+block level html element ..
+element that always appear in new line when we are use 
+are known as block level html element .
+Examples of block elements are
+<h1>, <p>, <ul>, and <li>.
+
+Some elements will always
+appear to continue on the
+same line as their neighbouring
+elements. These are known as
+inline elements.Examples of inline elements are
+<a>, <b>, <em>, and <img>
+
+block level  element-- new line 
+inline element -- same line 
+
+<div> element is use for divide the page into the section
+to easily undertstand the all parts of the long page 
+suppose for header for body for footer for table or for form
+after edning of the dev element you can use the </dev> <!-- end of the
+section -->
+
+
+div -- you can make sections of the page or parts of the page 
+to easily handle other operation by css and javascipt
+
+The <div> element allows you to
+group a set of elements together
+in one block-level box
+
+so with the helo of the div tag Grouping Text &
+Elements In a Block
+
+<div > it is act like block level element 
+<span> it is act like inline element
+
+div and span both are use for the same purpose .. but
+div is used for the block level element and span is used for 
+inline element ..
+
+div for making the page into small parts
+
+span is use for making small parts more controlable ...
+
+

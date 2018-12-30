@@ -1,0 +1,40 @@
+<html>
+<head>
+<title> form </title>
+</head>
+<body>
+<form action="http://www.example.com/sample.php" method="post"> 
+<fieldset>
+<legend> Your Details: </legend>
+<label> Name: <input type="text" name="Username" required="required"> <br />
+<label> Email: <input type="email" name="email" required="required">
+</fieldset>
+<br />
+<fieldset>
+<legend>Your Review:</legend> 
+<label> how did you hear about us </label> 
+<select name="reffer">
+<option value="google" select="select"> Google </option>
+<option value="yahoo"> Yahoo </option>
+<option value="bing"> Bing </bing>
+</select>
+<br />
+<label> Would you visit Again </label> <br />
+Yes <input type="radio" name="visit" value="yes" >
+No <input type="radio" name="visit" value="no">
+May be <input type="radio" name="visit" value="maybe">
+<br />
+<label> Comment Area </label>
+<textarea name="comment" row="40" required="required"> </textarea>
+<br />
+<label><input type="checkbox" name="signup" value="signup"> Sign me up for email </label>
+<br />
+<input type="submit"  name="submit" value="Submit Review">
+</fieldset>
+</form>
+</body>
+</html>
+
+
+
+

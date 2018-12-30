@@ -1,0 +1,37 @@
+link - it is use to move from one page to other 
+page and it is also use to move from one site to other site .
+< a href="link"> link text </a>
+
+url - uniform Resource Locator.
+index html - html code for the home page
+
+for child folder we use the anand/marksheet/page.html
+for parent or from child to parent directory we use
+../ for parent
+../../ for granparent
+
+email link
+
+< a href="mailto:jhariyaanand000@gmail.com"> Email </a>
+
+you can open the link in new window with the help 
+of target attribute 
+
+<a href="www.google.com" target="_blank">
+_blank value open the page in the new window 
+
+
+to move in same page we use 
+id attribute in the html tag or element 
+and then
+ we use <a href="#idname">
+
+we can also do it in different webpage simply 
+by full relative or absolute address followed by 
+/"#bottom or up or any value of id "
+
+example - <a href="www.example.com/#bottom"
+
+id attribute is use to target particular html tag 
+move from one tag to another tag.
+

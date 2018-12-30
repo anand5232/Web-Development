@@ -1,0 +1,40 @@
+when you are uploading the file you should use the method value as 
+post ..
+<form action="" method="post"> when you are upload a file 
+
+submit  button.. it is use to send the form to the server .
+
+submit button has attribute
+1. type =submit
+2. name= whatever you want 
+3. value - it will apear on the textbox of the submit button
+
+image button 
+attribute
+1. src= for image source where the image is located
+2. width 
+3. height
+exaple = <input type="image" src="C:\Users\John Cena\Desktop\trtr.jpg" width="100"
+height="40">
+
+we have button tag to combine the image and text to make it a button
+<button> image button + text </button>
+
+you can
+combine text and images
+between the opening <button>
+tag and closing </button> tag
+
+type="hidden"
+This example also shows a
+hidden form control. These form
+controls are not shown on the
+page (although you can see them
+if you use the View Source option
+in the browser). They allow web
+page authors to add values to
+forms that users cannot see.
+For example, a web page author
+might use a hidden field to
+indicate which page the user was
+on when they submitted a form. 

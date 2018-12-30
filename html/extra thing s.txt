@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+doctype is use to indicate the user or browser which version of
+html we used .. and it also helpful for rendering 
+the page for the browser..
+
+html-5
+html-4
+
+xhtml
+transitional XHTML 1.0
+strict XHTML 1.0
+XML
+
+html-5 declaration
+<!DOCTYPE html>
+
+html 4
+<!DOCTYPE html Public
+ " -//W3C//DTD HTML 4.01 Transitional//EN "
+" http://www.w3.org/TR/html4/loose.dtd">
+
+xml
+<?xml version="1.0" ?>
+
+<!-- here we write our comment -->
+

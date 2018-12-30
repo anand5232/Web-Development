@@ -1,0 +1,23 @@
+we have different type of images
+Gif 
+Jpeg 
+Png
+vector 
+and 
+Svg - scalable vector graphic
+animated Gif 
+
+IN HTML 5 photo or image with caption is made with help of 
+figure and figure caption html tag..we can use more than one images 
+here 
+
+<figure>
+<img src=" " height="300" width="300">
+<img src="" height="300" width="300">
+<figcaption> something here </figcaption>
+</figure>
+
+figcaption - for adding caption in your image
+
+alt attribute to describe the
+content of an image

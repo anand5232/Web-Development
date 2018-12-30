@@ -1,0 +1,24 @@
+bitmap image is resolution dependent ..
+
+Vector images differ from bitmap images and
+are resolution-independent.
+
+vector images are created in adobe illustrate
+
+Vector images are created by
+placing points on a grid, and
+drawing lines between those
+points. A color can then be
+added to "fill in" the lines that
+have been created.
+
+The advantage of creating line
+drawings in vector format is that
+you can increase the dimensions
+of the image without affecting
+the quality of it.
+
+Scalable Vector Graphics (SVG)
+are a relatively new format used
+to display vector images directly
+on the web

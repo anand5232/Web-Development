@@ -1,0 +1,42 @@
+<th> th is use for the table heading..it is similar
+to td element  
+when we create a table each small box of the table is known as
+cell.
+
+In table heading tab we can use the attribute known as scope
+scope="row"  scope="col"
+
+we can span 
+coloum and row in table 
+using colspan and rowspan
+<td rowspan="2">Movie</td>
+<td colspan="2">Geography</td>
+
+for long table 
+<table>
+<thead> -- for heaeding of long table
+--
+---
+</thead>
+<tbody>  -- body for long table 
+---
+---
+---
+<tfoot>  -- footer for long table
+---
+---
+---
+</tfoot>
+
+some table attribute 
+for width space inside the cell and outside the cell
+width -- how wide the table 
+cellpadding -- space inside the each cell
+cellspacing -- space between the cell
+bgcolor --for background color
+border -- for border in table
+
+a cell in table represented with the help of the 
+<td> or <th> tag 
+For long tables you can split the table into a <thead>,
+<tbody>, and <tfoot>.

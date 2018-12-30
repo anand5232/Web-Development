@@ -1,0 +1,20 @@
+it is use to show special character or these are reserved keyword
+for html
+
+escape character is use to include special symbol in your page.
+
+less than <
+&lt
+&#60
+
+greater than sign
+&gt
+&amp
+
+Ampersand
+&amp;
+&#38
+
+quotation mark
+&quot;
+&#34

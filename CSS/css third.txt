@@ -1,0 +1,66 @@
+when the css property does not display as expected 
+then we called as browser quirk or bug
+
+colour can be represent with  4 way 
+1. rgb value red green blue
+2. hex code 
+3. with the name  147 predefine color
+4. HSLA
+
+comment in css can be done 
+/* */
+
+hue -- mean different colour
+
+saturation -- amount of gray in color
+at maximum amount of gray will be less
+at minimum amount of gray will be maximum
+
+brightness
+it is measure with the help of 
+how much black colour it have
+
+maximum -- no black colour
+minimum -- max black colour
+
+contrast --it display the difference between light and black color
+or white and black color ..
+
+contrast -- in a photo or video the difference between light 
+ and black color
+
+opacity -- how much transparent ...
+
+hue -- colloquial idea of color .here we use 
+the angle to represent the color 0-360
+
+saturation --amount of gray -- measure in %
+100% - full saturation
+0% - shade of gray
+
+lightness or luminosity..
+it is amount of white or black in color
+and represented with %
+0% lightness - dark or black
+100% lightness - white
+
+50% is normal
+
+difference between lightness and brightness
+brightness only add black whereas the lightness offer both
+white and black
+
+hsl property indroduce in css3
+
+RGBA -red green blue alpha
+alpha-  transparency.
+
+HSLA - hue saturation lightness alpha
+it represent with 0 to 1 
+0.5 represent 50%
+0.75  represent 75% transparency
+
+
+
+
+

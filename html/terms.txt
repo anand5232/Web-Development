@@ -1,0 +1,9 @@
+list -
+unorderlist - use bullet point
+order list - use number 
+definition list
+
+white space collasping
+
+semantic element 
+strcutred element 

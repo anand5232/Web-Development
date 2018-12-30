@@ -1,0 +1,24 @@
+type=hidden 
+when you dont want to show the user ..something that is use for you 
+not for the user .
+it use attribute 
+like name value and type
+
+<label> this tag can be use for labelling the form like 
+name then box password then box 
+<label> name <input type=text name="name" >
+<label> Password <input type="password" name="password">
+in label we can use for attribute for attaching with id attribute with
+html element 
+
+
+to make a form like a page a 
+or want to make a form look like in a page or box 
+you can use the fieldset in html
+
+it will group all the element in one thing
+
+<fieldset> to group all the form controls into one box
+<legend> heading for the group page or box or use for the caption </legend>
+<label > <input>
+<fieldset>

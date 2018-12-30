@@ -1,0 +1,35 @@
+<img> this tag is use to add the image in your webpage
+it has three attribute 
+src - image location or source image 
+alt - it is use for the writting about image if image will
+not apper it will show you why image is used or for 
+what purpose 
+title - it is use to provide additional information 
+of image when you move your mouse into the page.
+
+so img tag or element use  attribute 
+1. src  2. alt 3. title 4. height 5. width 6. align
+
+height and width of the images are resized in the pixel
+pixel pixel .. so we can resize the size of the image using 
+height and width of the images..
+
+Block elements - always appear
+on a new line  like <h1> <p> 
+
+inline element - Inline elements sit within a
+block level element and do not
+start on a new line. example like - <b> <em> <img>
+
+
+align attribute -  it is use to align the image 
+values right and left 
+<img src="" align="left>
+
+
+align attribute has value - 
+top ,middle , bottom - when we are using these attribute
+the first line of code will be affected like top middle and last ..
+
+
+

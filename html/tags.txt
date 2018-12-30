@@ -1,0 +1,10 @@
+<h1> to <h6> for heading 
+<p> for paragraph 
+<b> for bold 
+<strong> for bold and strong word 
+<i>  for italic 
+<em> for italic and emphasis.
+<hr> horizontal rule 
+<br /> for break or for the new line of the sentence 
+<sup> this is the superscript and  use to add like power 
+<sub>  this is the subscript use for the like log of 10 

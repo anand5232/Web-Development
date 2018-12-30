@@ -1,0 +1,24 @@
+In css we can create internal css and external css 
+internal with the help of the style tag 
+and external with the help of the <link> tag...
+
+selector 
+
+class - .
+id - #
+
+types of selector..
+
+Universal Selector
+type selector
+class selector 
+id selector
+child selector
+descendant selector
+adjacent sibling selector
+General sibling selector
+
+
+inheritance occur in the html element
+if you use some property in the body this property is also 
+use in the chind element..

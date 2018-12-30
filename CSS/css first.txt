@@ -1,0 +1,24 @@
+css work with html element and its rule for html element ..
+how the page will display ...
+
+css has two part 
+selector and declaration
+
+selector -- which element we want to apply rule..
+declaration -- properties apply to the selected element with 
+property and its value...
+
+p {
+    font-family:Arial;
+     property : value
+  }
+
+to link the css file to html file you must use the 
+<link> tag in the <head> tag or element..
+
+Link has attribute like
+href  for full path ....
+rel  ....
+
+<link> tag is use for the use of the external css
+<style> this tag is used for the internal css 

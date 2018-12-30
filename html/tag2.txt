@@ -1,0 +1,11 @@
+<cite> it is similar to italic element in html. it is used to referencing
+ the books or famous things 
+<dfn> it is similar to italic but it used to defining new terminology
+       in instance..it is used to indrouce new terminology
+
+<cite> and <dfn> both are written in the italic when they are going 
+to used
+
+<address> it is use for contact and detail of author of page or webpage
+or any physical address
+address is written in italic .

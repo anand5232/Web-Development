@@ -1,0 +1,34 @@
+order list is created with ol
+<ol> it has type attribue  for the number ,alphabet or 
+li - list item
+<li> item </li>
+<li> item </li>
+<li> item </li>
+</ol>
+unorder list
+<ul> it has type attribute for type of bullet point 
+like circle diamond squre
+<li> item </li>
+</ul>
+
+dl- definition list 
+dt- definition term 
+dd- definition 
+
+<dl> it is use to create the definition list 
+<dt> term </dt>
+<dd> full definition </dd>
+</dl>
+
+
+nested list ..
+you can use the list into item of the list ..
+
+<ol> 
+<li> item 
+<ol>
+<li> item </li>
+</ol>
+</li>
+</ol>
+

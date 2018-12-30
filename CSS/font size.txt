@@ -1,0 +1,32 @@
+the default size of the font is 16px in the browser.
+
+most computer displays
+have a resolution of 72 dots per
+inch
+
+12 pixel scale
+h1 -24pixel
+h2 - 18pixel
+h3 - 14pixel
+body - 12pixel
+
+sixteen pixel scale
+h1 32px
+h2 24px
+h3 18px
+body 16px
+
+pt - point size
+px - pixel size
+
+Ems is related to width of the m.
+
+font also have different format
+eot,woff,ttf/otf svg
+
+ the browser needs to
+download the font file in order
+to show it, users might see
+something known as a Flash of
+Unstyled Content (FOUC) or
+Flash of Unstyled Text (FOUT).

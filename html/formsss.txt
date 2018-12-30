@@ -1,0 +1,23 @@
+You have probably seen forms on the web that give users
+messages if the form control has not been filled in correctly;
+this is known as form validation.
+
+the form validation is done with the help of html5 and javascipt
+in html we use the required="required" attribute for form validation.
+
+input tag has type attribute that has values
+1.text
+2.password
+3. radio
+4. checkbox
+5. hidden 
+6. date
+7. email
+8. url
+9. search 
+10 . submit
+
+placeholder...
+it is use for what you should enter in the text box .. to indicate the
+user about the textbox or form controls.
+

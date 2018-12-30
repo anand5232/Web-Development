@@ -1,0 +1,17 @@
+<hr /> for horizontal rule or line 
+<br /> line break - for break or for new line in the sentence
+<q> it is used  for  short  quotation 
+<blockquote> it is used for the long quotation
+
+<abbr title="call of duty "> it is used to represent full 
+form of the abberivation
+
+abbr and acronym elements are use to represent the 
+abberivation and acronym of the words  
+
+<abbr title="call of duty"> cod </abbr>
+<acronym title="call of duty"> cod </acronym>
+
+<cite> it use to show the name of the film or book  or famous 
+person
+

@@ -1,0 +1,15 @@
+iframe ..it is use to include a new window or page into your 
+page .. i can be anything .. i can be video or i can be map 
+
+iframe has attribute
+src =source or url 
+width 
+height
+scrolling  value yes  and no
+frameborder 0 and 1
+seamless - it is use where we dont use the scrolling
+
+so iframe --inline frame 
+it is use for include new windows in your page. so that 
+you can show other thing like video map or other website in
+your site ..
